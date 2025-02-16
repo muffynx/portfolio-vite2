@@ -9,5 +9,5 @@ export default defineConfig({
 
 
   ],
-  base: "/portfolio-vite2/muffynx",
+  base: "/portfolio-vite2",
 });
