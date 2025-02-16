@@ -58,10 +58,10 @@ const Navbar = () => {
   }, []);
 
   const menuItems = [
-    { title: 'หน้าแรก', to: '/' },
-    { title: 'เกี่ยวกับ', to: '/about' },
-    { title: 'ผลงาน', to: '/projects' },
-    { title: 'ติดต่อ', to: '/contact' },
+    { title: 'หน้าแรก', to: '/muffynx/' },
+    { title: 'เกี่ยวกับ', to: '/muffynx/about' },
+    { title: 'ผลงาน', to: '/muffynx/projects' },
+    { title: 'ติดต่อ', to: '/muffynx/contact' },
   ];
 
   return (

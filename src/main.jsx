@@ -15,10 +15,10 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <Router>
         <App>
           <Routes>
-            <Route path="/" element={<Hero />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/projects" element={<Projects />} />
-            <Route path="/contact" element={<Contact />} />
+            <Route path="/muffynx/" element={<Hero />} />
+            <Route path="/muffynx/about" element={<About />} />
+            <Route path="/muffynx/projects" element={<Projects />} />
+            <Route path="/muffynx/contact" element={<Contact />} />
           </Routes>
         </App>
       </Router>
