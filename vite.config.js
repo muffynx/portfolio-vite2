@@ -9,5 +9,5 @@ export default defineConfig({
 
 
   ],
-  base: "/portfolio-vite2/home",
+  base: "/portfolio-vite2/",
 });
